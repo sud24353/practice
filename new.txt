@@ -3,3 +3,5 @@ git add new.txt
 git commit -m "first commit"
 git remote add origin https://github.com/sud24353/practice.git
 git push -u origin master
+
+all are set
